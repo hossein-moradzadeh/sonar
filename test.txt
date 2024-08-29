@@ -1,0 +1,15 @@
+ Volume in drive D is Programs
+ Volume Serial Number is 544C-3D7C
+
+ Directory of D:\mysonarproject
+
+2024-08-29  11:25 PM    <DIR>          .
+2024-08-29  11:25 PM    <DIR>          ..
+2024-08-29  11:25 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  156,492,562,432 bytes free
+
+
+
+
+hm
